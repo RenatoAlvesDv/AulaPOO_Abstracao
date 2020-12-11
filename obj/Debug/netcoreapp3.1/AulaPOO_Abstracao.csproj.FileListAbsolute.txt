@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\bin\Debug\netcoreapp3.1\AulaPOO_Abstracao.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\AulaPOO_Abstracao\obj\Debug\netcoreapp3.1\AulaPOO_Abstracao.genruntimeconfig.cache

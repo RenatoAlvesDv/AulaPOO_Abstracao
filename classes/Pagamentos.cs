@@ -8,10 +8,18 @@ namespace AulaPOO_Abstracao.classes
         //Atributos
        private DateTime data;
 
+       public DateTime Data{
+           get {return data;}
+           set{data = value;}
+       }
+
 
        protected float valor;
 
-
+         public float Valor{
+             set{valor = value;}
+             get{return valor;}
+        }
 
         //Métodos
        public string Cancelar(){
@@ -19,7 +27,7 @@ namespace AulaPOO_Abstracao.classes
        }
       
 
-      //Obrigatorio
-       public abstract string Desconto (int valor);
+    //   //Obrigatorio
+    //    public abstract string Desconto (int valor);
     }
 }
